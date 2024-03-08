@@ -1,0 +1,5 @@
+com\example\restservice\RestServiceApplication.class
+com\example\restservice\EmployeeManager.class
+com\example\restservice\Employees.class
+com\example\restservice\Employee.class
+com\example\restservice\EmployeeController.class
